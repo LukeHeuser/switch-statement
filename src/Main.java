@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+//      The below if-else statement is written like a switch statement
 //        int value = 3;
 //        if (value == 1){
 //            System.out.println("Value is 1");
@@ -29,9 +29,5 @@ public class Main {
                 break;
 
         }
-        // more code here
-
-
-
     }
 }
